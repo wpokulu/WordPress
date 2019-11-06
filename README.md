@@ -21,6 +21,56 @@ WordPress bir siteniz varsa aklınız her zaman temalarda olacaktır. Doğru tem
 
 > Daha profesyonel siteler hazırlamak için kullanabileceğiniz en iyi premium WordPress temalar.
 
+
+#### [WordPress Blog ve Haber Temaları](https://wpokulu.co/wordpress-temalar/blog-haber/)
+
+> WordPress'te Blog ve Haber siteleri yapmak için kullanabileceğiniz en iyi temalar.
+
+
+#### [WordPress E Ticaret Temaları](https://wpokulu.co/wordpress-temalar/eticaret/)
+
+> WordPress'te E Ticaret sitesi yapmak için kullanabileceğiniz kolay ve en iyi temalar.
+
+
+#### [Pazaryeri Teması Çok Satıcılı Siteler İçin](https://wpokulu.co/wordpress-temalar/pazaryeri-temasi/)
+
+> WordPress ile çok satıcılı bir pazaryeri sitesi oluşturmak artık çok kolay.
+
+
+#### [WordPress Okul/Eğitim/Kurs Temaları](https://wpokulu.co/wordpress-temalar/egitim/)
+
+> WordPress siteniz ile eğitim, kurs vs. vermek istiyorsanız kullanabileceğiniz temalar bunlar.
+
+
+#### [WordPress Etkinlik Konferans Event Temaları](https://wpokulu.co/wordpress-temalar/etkinlik-konferans-event/)
+
+> Eğer bir etkinliğiniz varsa WordPress'te etkinlik sitesi yapmak için kullanabileceğiniz temalar.
+
+
+#### [WordPress Fotoğrafçılık Temaları](https://wpokulu.co/wordpress-temalar/fotografcilik/)
+
+> Eğer bir fotoğraf sitesi yapmak istiyorsanız kullanabileceğiniz en iyi WordPress Fotoğrafçılık temaları.
+
+
+#### [WordPress Kurumsal Firma Temaları](https://wpokulu.co/wordpress-temalar/kurumsal-firma/)
+
+> WordPress'te kurumsal bir site yapmak için kullanabileceğiniz en iyi temalar.
+
+
+#### [WordPress Mobil Uygulama App Temaları](https://wpokulu.co/wordpress-temalar/mobil-uygulama-app/)
+
+> WordPress'te mobil uygulama sitesi yapmak için kullanabileceğiniz en iyi temalar
+
+
+#### [WordPress Portfolyo Özgeçmiş Freelance Temaları](https://wpokulu.co/wordpress-temalar/portfolyo-ozgecmis-cv/)
+
+> WordPress'te porfolyo sitesi yapmak için kullanabileceğiniz en iyi temalar.
+
+
+#### [WordPress Restaurant Lokanta Cafe Bar Temaları](https://wpokulu.co/wordpress-temalar/restaurant-lokanta-cafe-bar/)
+
+> WordPress'te lokanta sitesi yapmak için kullanabileceğiniz en iyi temalar.
+
 ## WordPress Eklentiler
 
 WordPress sitelerinizde kullanabileceğiniz gerekli eklentiler. Özellikle tavsiye ettiklerimi işaretledim (★).
@@ -46,6 +96,36 @@ WordPress sitelerinizde kullanabileceğiniz gerekli eklentiler. Özellikle tavsi
 #### [WordPress Sayfa Oluşturucular](https://wpokulu.co/wordpress-eklentiler/en-iyi-7-wordpress-sayfa-olusturucu-editoru/)
 
 >  Artık her ne kadar Gutenberg editöre geçsek de onun yetersiz olduğu durumlar var. Kullanımı kolay en iyi sayfa oluşturucu eklentileri derledim.
+
+
+#### [Getresponse İle Eposta Listeleri ve Toplu Mail](https://wpokulu.co/wordpress-eklentiler/getresponse-ile-eposta-listeleri-ve-toplu-mail/)
+
+> E posta pazarlama için kullanabileceğiniz ücretli ve profesyonel toplu bir e-mail eklentisi.
+
+
+#### [Rank Math SEO Eklentisi](https://wpokulu.co/seo/rank-math-seo-eklentisi/)
+
+> Rank Math, Yoast SEO benzeri bir SEO eklentisi.
+
+
+#### [WordPress Pazaryeri Çoklu Satıcı Eklentileri](https://wpokulu.co/wordpress-eklentiler/wordpress-pazaryeri-coklu-satici-eklentileri/)
+
+> Kendi sitenizden başka kişilerin de satış yapmasını istiyorsanız bunun için çoklu satıcı eklentisi kullanabilirsiniz.
+
+
+#### [CouponBox | WooCommerce Abone Ol Kupon Al Eklentisi](https://wpokulu.co/wordpress-eklentiler/couponbox-woocommerce-abone-ol-kupon-al-eklentisi/)
+
+> Couponbox, WooCommerce müşterilerinizin e-postalarını toplamanıza yardımcı olan bir eklentidir.
+
+
+#### [Click to WhatsApp for WooCommerce Orders Eklentimiz](https://wpokulu.co/wordpress-eklentiler/click-to-whatsapp-for-woocommerce-orders-eklentimiz/)
+
+> Bu eklenti sayesinde kullanıcı müşterilere tek tıkla iletişim haline geçebiliyor.
+
+
+#### [PHP Settings Eklentisi](https://wpokulu.co/wordpress-eklentiler/php-settings-eklentisi/)
+
+> PHP'den kaynaklanan hataların çoğu bu eklenti sayesinde düzeltilebilir.
 
 ## WordPress SEO
 
