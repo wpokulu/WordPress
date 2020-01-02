@@ -145,3 +145,46 @@ Hızlıca sitenizn SEO puanını öğrenin.
 
 Sitenizi kod bilmeden de hızlandırabilirsiniz. Mutlaka yapmanız gereken 8 ipucu.
 
+## [WP Dersleri](https://wpokulu.co/wordpress-dersleri/)
+
+WordPress öğrenmek için WordPress dersleri.
+
+#### [WordPress vs Kodlama ile Site Yapmak](https://wpokulu.co/wordpress-dersleri/wordpress-vs-kodlama-ile-site-yapmak/)
+
+Hangisi daha iyi, kodlamak mı WordPress mi?
+
+####[WordPress Eğitimi ile Kendi Sitesini Yapanlar](https://wpokulu.co/wordpress-dersleri/wordpress-egitimi-ile-kendi-sitesini-yapanlar/)
+
+WordPress Eğitimini alıp kendi sitesini yapanları derledik...
+
+####[İnternet Sitesi Kurmak](https://wpokulu.co/wordpress-dersleri/internet-sitesi-kurmak)
+
+İnternet sitesi kurmak ile alakalı her şey...
+
+####[WordPress Ayarları](https://wpokulu.co/wordpress-dersleri/wordpress-ayalari/)
+
+WordPress'i yeni yeni öğreniyorsanız WordPress Ayarlarını öğrenmenizde fayda var...
+
+####[E-Ticaret Sitesi Kurmak](https://wpokulu.co/wordpress-dersleri/e-ticaret-sitesi-kurmak/)
+
+Birçoğunuz internetten para kazanmak istiyor, bu yazımız yardımcı olabilir.
+
+####[Kurumsal Site](https://wpokulu.co/wordpress-dersleri/kurumsal-internet-sitesi-kurmak/)
+
+Eğer bir şirketseniz kendizini tanıtan bir kurumsal site yapmalısınız.
+
+####[Blog Açmak](https://wpokulu.co/wordpress-dersleri/blog-acmak/)
+
+Blog açmak istiyorsanız bu yazı çok yardımcı olacaktır.
+
+####[Web Sitesi Yapmadan Plan Yapın](https://wpokulu.co/wordpress-dersleri/web-sitesi-plani-hazirlama/)
+
+Web sitesi yapmadan önce plan yapmayı düşünüyorsanız bu yazıyı bir an önce okumalısınız.
+
+####[Alan Adı(Domain) Nasıl Alınır?](https://wpokulu.co/wordpress-dersleri/domain/)
+
+Alan adı ve alan adı almakla ilgili her şey...
+
+####[Yeni Başlayanlara WordPress Tavsiyeleri](https://wpokulu.co/wordpress-dersleri/wordpress-tavsiyeleri/)
+
+WordPress ile ilgili birkaç önemli tavsiye.
